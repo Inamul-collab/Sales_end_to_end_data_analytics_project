@@ -23,4 +23,5 @@ An end to end data analytics project covers data processing with python,database
 ​Profit Margin: The business maintains an average profit margin of 25.09% on sales.
 
 ​Regional Performance: The dashboard successfully tracks and compares sales and profit performance across four key regions: North, South, East, and West.
+
 ​Product Analysis: The project provides a detailed breakdown of sales distribution across five main product categories: Printers, Tablets, Laptops, Monitors, and Mobiles.
